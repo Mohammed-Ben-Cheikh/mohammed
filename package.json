@@ -2,6 +2,7 @@
   "name": "mohammed",
   "version": "1.0.0",
   "private": true,
+  "main": ".arcanajs/server/server.js",
   "scripts": {
     "dev": "arcanajs dev",
     "build": "arcanajs build",
